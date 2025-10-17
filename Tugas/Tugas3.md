@@ -1,0 +1,5 @@
+![presensi/check-in](ss/ss_post_check-in.png)
+![presensi/check-in jika dilakukan lebih dari 1 kali](ss/ss_post_check-in_ke2.png)
+![presensi/check-out](ss_post_checkout.png)
+![presensi/check-out jika belum melakukan check-in](ss/ss_checkout2_post.png)
+![reports/daily](ss/ss_repostdaily.png)
