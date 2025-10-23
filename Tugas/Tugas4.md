@@ -1,0 +1,5 @@
+![Tampilan endpoint presensi checkin](ss/ss_paw_checkin.png)
+![Tampilan database setelah presensi checkin](ss/ss_presensi_after_checkin.png)
+![Tampilan endpoint presensi checkout](ss/ss_paw_checkout.png)
+![Tampilan database setelah presensi checkout](ss/ss_after_checkout.png)
+![Tampilan endpoint report](ss/ss_Reports.png)
