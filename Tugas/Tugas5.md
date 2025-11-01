@@ -1,0 +1,5 @@
+![Endpoint update data presensi](<SS/PUT Update data PAW.png>)
+![Endpoint update jika format tanggal yang diisi tidak valid](<SS/PUT gagal PAW.png>)
+![Endpoint delete data](<SS/DELETE PAW berhasil.png>)
+![Enpoint search berdasarkan nama](<SS/pencarian nama.png>)
+![Endpoint search berdasarkan tanggal](<SS/pencarian tanggal.png>)
