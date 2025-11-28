@@ -17,7 +17,7 @@ function RegisterPage() {
     setSuccess(null);
 
     try {
-      await axios.post('http://localhost:5000/api/auth/register', {
+      await axios.post('http://localhost:3001/api/auth/register', {
         nama,
         email,
         password,

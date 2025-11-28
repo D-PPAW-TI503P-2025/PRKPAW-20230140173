@@ -1,0 +1,6 @@
+![Endpoint presensi/check-in dengan menggunakan bearer token dan body latitude, longitude](<ss/paw 1.png>)
+![Endpoint menggunakan bearer token dan body latitude, longitude](<paw 2.png>)
+![Check-in berhasil](<ss/Screenshot 2025-11-28 181357.png>)
+![Check-out berhasil](<ss/Screenshot 2025-11-28 181406.png>)
+![Tampilan halaman report yg berisi data presensi dari semua user](<ss/Screenshot 2025-11-28 181417.png>)
+![Screenshote tabel presensi di database](<ss/Screenshot 2025-11-28 181459.png>)
