@@ -5,11 +5,10 @@ const { authenticateToken } = require("../middleware/permissionMiddleware");
 
 router.use(authenticateToken);
 
-router.post("/check-in", presensiController.CheckIn);
+//router.post("/check-in", presensiController.CheckIn);
 router.post("/check-out", presensiController.CheckOut);
-
+router.post('/check-in', [authenticateToken, presensiController.upload.single('image')], presensiController.CheckIn);
 router.put("/:id", presensiController.updatePresensi);
-
 router.delete("/:id", presensiController.hapusPresensi);
 
 module.exports = router;
